@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Align(
                 alignment: Alignment.topCenter,
-                child: ElevatedButton(onPressed: () async {await launchUrl(Uri.https('github.com','/gintama2006'));},
+                child: ElevatedButton(onPressed: () async {await launchUrl(Uri.https('github.com','/WilWod/SuperKotik.git'));},
                     child: const Text("Github"))),
             Align(
                 alignment: Alignment.topRight,
